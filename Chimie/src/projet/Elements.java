@@ -16,7 +16,7 @@ public class Elements {
 	private double atomicMass;
 	
 
-	//Constructeur
+
 	public Elements(String name, String symbol, int atomicNumber, double atomicMass) {
 		this.name=name;
 		this.symbol=symbol;
